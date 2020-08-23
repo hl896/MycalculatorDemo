@@ -54,9 +54,7 @@
 
 .operator {
     background-color: #ea920e;
-    color: #293944;
+    color: white;
 }
 
-.operator:active:hover {
-    background-color:#ea920e;
-}
+
