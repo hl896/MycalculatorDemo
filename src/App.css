@@ -1,5 +1,6 @@
   .historySec{
     display:block;
+    background:black;
   }
   .historySec .input {
     display: inline-block;
