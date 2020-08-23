@@ -1,6 +1,10 @@
   .historySec{
     display:block;
   }
+  .historySec .input {
+    display: inline-block;
+    overflow: scroll;
+}
   .app {
     display: flex;
     justify-content: center;
