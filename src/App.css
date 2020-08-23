@@ -5,6 +5,7 @@
   .historySec .input {
     display: inline-block;
     overflow: scroll;
+    max-width: 300px;
 }
   .app {
     display: flex;
